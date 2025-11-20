@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning (disable:4996)
-int main(void)  /*int´Â return0 ¶§¹®*/
+int main(void)  /*intëŠ” return0 ë•Œë¬¸*/
 {
 	int nAge = 99;
 	float fHeight = 999.0f;
@@ -17,4 +17,5 @@ int main(void)  /*int´Â return0 ¶§¹®*/
 
 	return 0;
 }
-/* ÄÚµùÀ» °íÄ¡¸é ºôµåÇØÁÖ±â!!!!*/
+
+
